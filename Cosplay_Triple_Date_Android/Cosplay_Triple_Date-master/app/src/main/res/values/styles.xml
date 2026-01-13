@@ -1,9 +1,0 @@
-<resources xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <style name="AlertDialogCustom" parent="@android:style/Theme.Dialog">
-        <item name="android:textSize">20sp</item>
-        <item name="android:textAlignment">center</item>
-        <item name="android:background">@color/colorAlert</item>
-    </style>
-
-</resources>
